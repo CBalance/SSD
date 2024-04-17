@@ -2,7 +2,7 @@
 
 [[Homepage]()][[paper]()][[Poster]()]
 
-official code for ""
+official code for ijcai24 "Learning Spatial Similarity Distribution for Few-shot Object Counting"
 
 ![pipline](md-files/pipeline.png)
 
