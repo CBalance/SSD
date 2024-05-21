@@ -1,6 +1,6 @@
 # SSD: Learning Spatial Similarity Distribution for Few-shot Object Counting
 
-[[Homepage](https://github.com/CBalance/SSD)][[paper]()]
+[[Homepage](https://github.com/CBalance/SSD)][[paper](https://paperswithcode.com/paper/learning-spatial-similarity-distribution-for)]
 
 official code for ijcai24 "Learning Spatial Similarity Distribution for Few-shot Object Counting"
 
