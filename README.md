@@ -31,13 +31,15 @@ einops
 
 
 # Citation
-@article{xu2024learning,
+@inproceedings{xu2024learning,
 
   title={Learning Spatial Similarity Distribution for Few-shot Object Counting},
   
   author={Xu, Yuanwu and Song, Feifan and Zhang, Haofeng},
   
-  journal={arXiv preprint arXiv:2405.11770},
+  booktitle={Proceedings of the Thirty-Third International Joint Conference on Artificial Intelligence},
+  
+  pages={1507-1515},
   
   year={2024}
 }
