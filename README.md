@@ -1,6 +1,6 @@
 # SSD: Learning Spatial Similarity Distribution for Few-shot Object Counting
 
-[[Homepage](https://github.com/CBalance/SSD)][[paper](https://paperswithcode.com/paper/learning-spatial-similarity-distribution-for)]
+[[Homepage](https://github.com/CBalance/SSD)][[paper]([https://paperswithcode.com/paper/learning-spatial-similarity-distribution-for](https://www.ijcai.org/proceedings/2024/167))]
 
 official code for ijcai24 "Learning Spatial Similarity Distribution for Few-shot Object Counting"
 
@@ -31,6 +31,11 @@ einops
 
 
 # Citation
-
+@article{xu2024learning,
+  title={Learning Spatial Similarity Distribution for Few-shot Object Counting},
+  author={Xu, Yuanwu and Song, Feifan and Zhang, Haofeng},
+  journal={arXiv preprint arXiv:2405.11770},
+  year={2024}
+}
 
 
