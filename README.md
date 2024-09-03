@@ -41,15 +41,9 @@ einops
   
   publisher = {International Joint Conferences on Artificial Intelligence Organization},
   
-  editor    = {Kate Larson},
-  
   pages     = {1507--1515},
   
   year      = {2024},
-  
-  month     = {8},
-  
-  note      = {Main Track},
   
   doi       = {10.24963/ijcai.2024/167},
   
